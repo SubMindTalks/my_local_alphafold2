@@ -1,5 +1,8 @@
 /.cadence/
 /venv/
 /.idea/
-.idea
+/.idea/*
+*.iml
 modules.xml
+*.ipr
+*.iws
